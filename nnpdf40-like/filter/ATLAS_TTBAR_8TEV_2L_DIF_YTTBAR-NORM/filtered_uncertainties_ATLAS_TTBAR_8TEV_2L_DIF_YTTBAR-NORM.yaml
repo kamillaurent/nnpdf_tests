@@ -1,0 +1,16 @@
+bins:
+- {stat: 0.0, sys_1: 0.0288082278, sys_2: -0.0083794454, sys_3: 0.00830884857, sys_4: -0.00100766744,
+  sys_5: -8.27617611e-05}
+- {stat: 0.0, sys_1: -0.0206583729, sys_2: -0.0179874784, sys_3: 0.00563586956, sys_4: -0.00175313318,
+  sys_5: -0.000107008147}
+- {stat: 0.0, sys_1: -0.00947760321, sys_2: 0.0141125997, sys_3: 0.0127878751, sys_4: -6.23036011e-05,
+  sys_5: 5.90156215e-06}
+- {stat: 0.0, sys_1: 0.000829536794, sys_2: 0.00439800817, sys_3: -0.00213681595,
+  sys_4: -0.00902670511, sys_5: -0.000364150153}
+definitions:
+  stat: {description: Uncorrelated statistical uncertainties, treatment: ADD, type: UNCORR}
+  sys_1: {treatment: ADD, type: CORR}
+  sys_2: {treatment: ADD, type: CORR}
+  sys_3: {treatment: ADD, type: CORR}
+  sys_4: {treatment: ADD, type: CORR}
+  sys_5: {treatment: ADD, type: CORR}

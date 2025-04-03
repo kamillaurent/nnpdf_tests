@@ -1,0 +1,90 @@
+{
+  "100": {
+    "training_loss": 7313.0,
+    "validation_loss": [
+      310528.84375
+    ],
+    "validation_chi2s": {
+      "DEUTERON": 7745.47734375,
+      "ATLAS": 64.52225563742898,
+      "total": 6088.80078125
+    }
+  },
+  "200": {
+    "training_loss": 311.5,
+    "validation_loss": [
+      121.2019271850586
+    ],
+    "validation_chi2s": {
+      "DEUTERON": 1.7992435455322267,
+      "ATLAS": 4.47565321488814,
+      "total": 2.3765084743499756
+    }
+  },
+  "300": {
+    "training_loss": 233.58895874023438,
+    "validation_loss": [
+      116.43890380859375
+    ],
+    "validation_chi2s": {
+      "DEUTERON": 1.7652318954467774,
+      "ATLAS": 4.166329817338423,
+      "total": 2.283115863800049
+    }
+  },
+  "400": {
+    "training_loss": 223.9334259033203,
+    "validation_loss": [
+      123.22207641601562
+    ],
+    "validation_chi2s": {
+      "DEUTERON": 1.882210922241211,
+      "ATLAS": 4.357603246515447,
+      "total": 2.41611909866333
+    }
+  },
+  "500": {
+    "training_loss": 222.6269989013672,
+    "validation_loss": [
+      120.46609497070312
+    ],
+    "validation_chi2s": {
+      "DEUTERON": 1.8052465438842773,
+      "ATLAS": 4.386929945512251,
+      "total": 2.3620803356170654
+    }
+  },
+  "600": {
+    "training_loss": 221.44422912597656,
+    "validation_loss": [
+      117.28732299804688
+    ],
+    "validation_chi2s": {
+      "DEUTERON": 1.774124526977539,
+      "ATLAS": 4.2111216458407315,
+      "total": 2.2997515201568604
+    }
+  },
+  "700": {
+    "training_loss": 224.13153076171875,
+    "validation_loss": [
+      101.76554870605469
+    ],
+    "validation_chi2s": {
+      "DEUTERON": 1.5329487800598145,
+      "ATLAS": 3.6770543185147373,
+      "total": 1.9954029321670532
+    }
+  },
+  "800": {
+    "training_loss": 224.06143188476562,
+    "validation_loss": [
+      1843.62939453125
+    ],
+    "validation_chi2s": {
+      "DEUTERON": 1.5499359130859376,
+      "ATLAS": 4.248226165771484,
+      "total": 2.131920099258423
+    }
+  }
+}

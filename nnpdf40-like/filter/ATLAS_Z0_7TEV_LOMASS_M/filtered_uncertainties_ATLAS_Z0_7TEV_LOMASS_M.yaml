@@ -1,0 +1,23 @@
+bins:
+- {stat: 521.22, sys_1: 62.04999999999999, sys_2: 74.45999999999998, sys_3: 310.24999999999994,
+  sys_4: 496.3999999999999, sys_5: 1402.33, sys_6: -372.3, sys_7: -24.82, sys_8: 434.35}
+- {stat: 699.67, sys_1: 67.70999999999998, sys_2: 67.70999999999998, sys_3: 315.97999999999996,
+  sys_4: 835.09, sys_5: 2550.41, sys_6: -631.9599999999999, sys_7: 22.57, sys_8: 789.95}
+- {stat: 483.12, sys_1: 14.64, sys_2: 58.56, sys_3: 131.76, sys_4: 527.04, sys_5: 1244.4,
+  sys_6: -263.52, sys_7: 0.0, sys_8: 512.4}
+- {stat: 269.2, sys_1: 13.46, sys_2: 26.92, sys_3: 47.11, sys_4: 242.27999999999997,
+  sys_5: 417.25999999999993, sys_6: -107.68, sys_7: -6.73, sys_8: 235.55}
+- {stat: 146.12, sys_1: 2.81, sys_2: 14.050000000000002, sys_3: 19.670000000000005,
+  sys_4: 101.16, sys_5: 118.02, sys_6: -36.53000000000001, sys_7: -2.81, sys_8: 98.35}
+- {stat: 59.69, sys_1: 1.27, sys_2: 6.349999999999999, sys_3: 7.62, sys_4: 45.72,
+  sys_5: 45.72, sys_6: -8.89, sys_7: -0.0, sys_8: 44.45}
+definitions:
+  stat: {description: Uncorrelated statistical uncertainties, treatment: ADD, type: UNCORR}
+  sys_1: {treatment: MULT, type: UNCORR}
+  sys_2: {treatment: MULT, type: UNCORR}
+  sys_3: {treatment: MULT, type: CORR}
+  sys_4: {treatment: MULT, type: CORR}
+  sys_5: {treatment: MULT, type: CORR}
+  sys_6: {treatment: MULT, type: CORR}
+  sys_7: {treatment: MULT, type: CORR}
+  sys_8: {treatment: MULT, type: ATLASLUMI11}

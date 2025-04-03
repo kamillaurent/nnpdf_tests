@@ -1,0 +1,9 @@
+bins:
+- {stat: 3000.0, sys_1: 1139.539991217, sys_2: -114.7189778108, sys_3: 5889.676405758,
+  sys_4: 16000.0}
+definitions:
+  stat: {description: Uncorrelated statistical uncertainties, treatment: ADD, type: UNCORR}
+  sys_1: {treatment: ADD, type: ATLAS_WZ_TOT_13TEV_0}
+  sys_2: {treatment: ADD, type: ATLAS_WZ_TOT_13TEV_1}
+  sys_3: {treatment: ADD, type: ATLAS_WZ_TOT_13TEV_2}
+  sys_4: {treatment: MULT, type: ATLASLUMI15PART}

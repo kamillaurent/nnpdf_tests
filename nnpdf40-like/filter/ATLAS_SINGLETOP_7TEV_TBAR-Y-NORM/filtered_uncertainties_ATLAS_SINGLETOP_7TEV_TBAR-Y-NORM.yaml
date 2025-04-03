@@ -1,0 +1,32 @@
+bins:
+- {stat: 1e-10, sys_1: 0.09706713343838, sys_10: -0.008485281374239, sys_11: 0.008485281374239,
+  sys_12: -0.007424621202459001, sys_13: 0.007424621202459001, sys_14: -0.010076271631910001,
+  sys_15: 0.010076271631910001, sys_2: -0.008578059136727, sys_3: 0.003261672500838,
+  sys_4: -0.06363961030679001, sys_5: 0.06363961030679001, sys_6: -0.01803122292026,
+  sys_7: 0.01803122292026, sys_8: -0.0, sys_9: 0.0}
+- {stat: 1e-10, sys_1: -0.007270523235383, sys_10: -0.004666904755831, sys_11: 0.004666904755831,
+  sys_12: -0.03640185709548, sys_13: 0.03826861899781999, sys_14: -0.0, sys_15: 0.0,
+  sys_2: -0.04325823199847, sys_3: -0.04102521732118, sys_4: -0.051335952314139996,
+  sys_5: 0.051335952314139996, sys_6: -0.01120057141399, sys_7: 0.01120057141399,
+  sys_8: 0.002333452377916, sys_9: -0.008867119036079}
+- {stat: 1e-10, sys_1: -0.01350539318732, sys_10: -0.0, sys_11: 0.0, sys_12: 0.01569777054234,
+  sys_13: -0.01687510333302, sys_14: -0.0, sys_15: 0.0, sys_2: -0.03836523845058,
+  sys_3: 0.04552818175028, sys_4: -0.04709331162702, sys_5: 0.04709331162702, sys_6: -0.004316886899144,
+  sys_7: 0.004316886899144, sys_8: -0.0, sys_9: 0.0}
+definitions:
+  stat: {description: Uncorrelated statistical uncertainties, treatment: ADD, type: UNCORR}
+  sys_1: {treatment: ADD, type: CORR}
+  sys_10: {treatment: MULT, type: CORR}
+  sys_11: {treatment: MULT, type: CORR}
+  sys_12: {treatment: MULT, type: CORR}
+  sys_13: {treatment: MULT, type: CORR}
+  sys_14: {treatment: MULT, type: CORR}
+  sys_15: {treatment: MULT, type: CORR}
+  sys_2: {treatment: ADD, type: CORR}
+  sys_3: {treatment: ADD, type: CORR}
+  sys_4: {treatment: MULT, type: CORR}
+  sys_5: {treatment: MULT, type: CORR}
+  sys_6: {treatment: MULT, type: CORR}
+  sys_7: {treatment: MULT, type: CORR}
+  sys_8: {treatment: MULT, type: CORR}
+  sys_9: {treatment: MULT, type: CORR}

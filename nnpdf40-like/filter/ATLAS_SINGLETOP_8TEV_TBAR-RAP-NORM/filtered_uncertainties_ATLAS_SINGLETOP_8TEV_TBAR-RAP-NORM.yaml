@@ -1,0 +1,63 @@
+bins:
+- {stat: 1e-10, sys_1: 0.05280702749794, sys_10: 0.001514622725302, sys_11: -0.001514622725302,
+  sys_12: 0.0030292454506030005, sys_13: -0.004543868175905, sys_14: 0.0, sys_15: -0.0,
+  sys_16: 0.001514622725302, sys_17: -0.0, sys_18: 0.004543868175905, sys_19: -0.004543868175905,
+  sys_2: 0.02752323464781, sys_20: 0.025243712088360005, sys_21: -0.025243712088360005,
+  sys_22: 0.002524371208836, sys_23: -0.002524371208836, sys_24: 0.0, sys_25: -0.012621856044180002,
+  sys_26: 0.0035341196923700004, sys_27: -0.0035341196923700004, sys_28: 0.007068239384741,
+  sys_29: -0.007068239384741, sys_3: -0.01171176764426, sys_30: 0.0, sys_31: -0.004543868175905,
+  sys_4: 0.002524371208836, sys_5: -0.002524371208836, sys_6: 0.008582862110042, sys_7: -0.008582862110042,
+  sys_8: 0.001514622725302, sys_9: -0.001009748483534}
+- {stat: 1e-10, sys_1: -0.05076241118724, sys_10: 0.0004426488450228, sys_11: -0.0004426488450228,
+  sys_12: 0.004426488450228, sys_13: -0.002213244225114, sys_14: 0.0, sys_15: -0.0,
+  sys_16: 0.001327946535068, sys_17: -0.002655893070137, sys_18: 0.015492709575800002,
+  sys_19: -0.015492709575800002, sys_2: 0.02202344288725, sys_20: 0.01991919802603,
+  sys_21: -0.01991919802603, sys_22: 0.01327946535068, sys_23: -0.01327946535068,
+  sys_24: 0.0008852976900456, sys_25: -0.002213244225114, sys_26: 0.004426488450228,
+  sys_27: -0.004426488450228, sys_28: 0.01416476304073, sys_29: -0.01416476304073,
+  sys_3: -0.01596821962052, sys_30: 0.0, sys_31: -0.0008852976900456, sys_4: 0.0004426488450228,
+  sys_5: -0.0004426488450228, sys_6: 0.002213244225114, sys_7: -0.002213244225114,
+  sys_8: 0.002655893070137, sys_9: -0.001327946535068}
+- {stat: 1e-10, sys_1: 0.009778450578315, sys_10: 0.00268771287529, sys_11: -0.00268771287529,
+  sys_12: 0.00038395898218429993, sys_13: -0.004991466768396, sys_14: 0.0, sys_15: -0.0,
+  sys_16: 0.00038395898218429993, sys_17: -0.0023037538931059997, sys_18: 0.004223548804027,
+  sys_19: -0.004607507786211999, sys_2: -0.03430575658088, sys_20: 0.021885661984499996,
+  sys_21: -0.021885661984499996, sys_22: 0.006143343714949, sys_23: -0.006143343714949,
+  sys_24: 0.01267064641208, sys_25: -0.0038395898218429995, sys_26: 0.006911261679317,
+  sys_27: -0.006911261679317, sys_28: 0.0038395898218429995, sys_29: -0.0038395898218429995,
+  sys_3: -0.01964745771597, sys_30: 0.0, sys_31: -0.007295220661502, sys_4: 0.01190272844771,
+  sys_5: -0.01190272844771, sys_6: 0.001535835928737, sys_7: -0.001535835928737, sys_8: 0.0007679179643685999,
+  sys_9: -0.001535835928737}
+definitions:
+  stat: {description: Uncorrelated statistical uncertainties, treatment: ADD, type: UNCORR}
+  sys_1: {treatment: ADD, type: CORR}
+  sys_10: {treatment: MULT, type: CORR}
+  sys_11: {treatment: MULT, type: CORR}
+  sys_12: {treatment: MULT, type: CORR}
+  sys_13: {treatment: MULT, type: CORR}
+  sys_14: {treatment: MULT, type: CORR}
+  sys_15: {treatment: MULT, type: CORR}
+  sys_16: {treatment: MULT, type: CORR}
+  sys_17: {treatment: MULT, type: CORR}
+  sys_18: {treatment: MULT, type: CORR}
+  sys_19: {treatment: MULT, type: CORR}
+  sys_2: {treatment: ADD, type: CORR}
+  sys_20: {treatment: MULT, type: CORR}
+  sys_21: {treatment: MULT, type: CORR}
+  sys_22: {treatment: MULT, type: CORR}
+  sys_23: {treatment: MULT, type: CORR}
+  sys_24: {treatment: MULT, type: CORR}
+  sys_25: {treatment: MULT, type: CORR}
+  sys_26: {treatment: MULT, type: CORR}
+  sys_27: {treatment: MULT, type: CORR}
+  sys_28: {treatment: MULT, type: CORR}
+  sys_29: {treatment: MULT, type: CORR}
+  sys_3: {treatment: ADD, type: CORR}
+  sys_30: {treatment: MULT, type: CORR}
+  sys_31: {treatment: MULT, type: CORR}
+  sys_4: {treatment: MULT, type: CORR}
+  sys_5: {treatment: MULT, type: CORR}
+  sys_6: {treatment: MULT, type: CORR}
+  sys_7: {treatment: MULT, type: CORR}
+  sys_8: {treatment: MULT, type: CORR}
+  sys_9: {treatment: MULT, type: CORR}

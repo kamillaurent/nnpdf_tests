@@ -1,0 +1,28 @@
+bins:
+- {stat: 0.0018, sys_1: 5e-05, sys_2: 0.00036, sys_3: 6e-05, sys_4: 8e-05, sys_5: 5e-05,
+  sys_6: 0.00129, sys_7: 0.0013}
+- {stat: 0.0018, sys_1: 0.00029, sys_2: 0.00046, sys_3: 7.000000000000001e-05, sys_4: 0.00013,
+  sys_5: 4e-05, sys_6: 0.00151, sys_7: 0.0006}
+- {stat: 0.0018, sys_1: 0.00049, sys_2: 0.00065, sys_3: 0.00012, sys_4: 0.00039, sys_5: 3e-05,
+  sys_6: 0.00165, sys_7: 0.0011}
+- {stat: 0.0019, sys_1: 0.00047, sys_2: 0.00089, sys_3: 0.00012, sys_4: 0.00046, sys_5: 4e-05,
+  sys_6: 0.00134, sys_7: 0.0009}
+- {stat: 0.0016, sys_1: 0.0005099999999999999, sys_2: 0.00078, sys_3: 0.00014, sys_4: 0.00053,
+  sys_5: 2e-05, sys_6: 0.00251, sys_7: 0.0022}
+- {stat: 0.0014, sys_1: 0.00057, sys_2: 0.00058, sys_3: 6e-05, sys_4: 0.00042, sys_5: 2e-05,
+  sys_6: 0.00187, sys_7: 0.0017}
+- {stat: 0.0016, sys_1: 0.00055, sys_2: 0.00048, sys_3: 0.00013, sys_4: 0.00073, sys_5: 5e-05,
+  sys_6: 0.00183, sys_7: 0.0017}
+- {stat: 0.006999999999999999, sys_1: 0.0003, sys_2: 5e-05, sys_3: 0.00047, sys_4: 0.00082,
+  sys_5: 0.00031, sys_6: 0.00312, sys_7: 0.002}
+- {stat: 0.0107, sys_1: 0.00037, sys_2: 8.999999999999999e-05, sys_3: 0.00048, sys_4: 0.00149,
+  sys_5: 0.00049, sys_6: 0.00385, sys_7: 0.0004}
+definitions:
+  stat: {description: Uncorrelated statistical uncertainties, treatment: ADD, type: UNCORR}
+  sys_1: {treatment: ADD, type: CORR}
+  sys_2: {treatment: ADD, type: CORR}
+  sys_3: {treatment: ADD, type: CORR}
+  sys_4: {treatment: ADD, type: CORR}
+  sys_5: {treatment: ADD, type: CORR}
+  sys_6: {treatment: ADD, type: CORR}
+  sys_7: {treatment: ADD, type: UNCORR}

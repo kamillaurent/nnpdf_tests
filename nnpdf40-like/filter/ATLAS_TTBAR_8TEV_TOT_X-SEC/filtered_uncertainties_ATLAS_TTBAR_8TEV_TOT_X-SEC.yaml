@@ -1,0 +1,7 @@
+bins:
+- {stat: 1.7, sys_1: 5.5, sys_2: 7.5, sys_3: 4.2}
+definitions:
+  stat: {description: Uncorrelated statistical uncertainties, treatment: ADD, type: UNCORR}
+  sys_1: {treatment: MULT, type: UNCORR}
+  sys_2: {treatment: MULT, type: ATLASLUMI12}
+  sys_3: {treatment: MULT, type: UNCORR}

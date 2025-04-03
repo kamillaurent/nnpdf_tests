@@ -1,0 +1,94 @@
+
+CondaError: Run 'conda init' before 'conda activate'
+
+[INFO]: Starting NNPDF fit comparison:
+    Current fit: nnpdf40-like
+    Reference fit: 240701-02-rs-nnpdf40-baseline
+    Title: test_comparison_1
+    Author: Kamil Laurent
+    Keywords: ['NNPDF comparison 1']
+    Current fit label: Current Fit
+    Reference fit label: Reference Fit
+    Thcovmat if present: False
+[WARNING]: The usage of old names is deprecated and support will be dropped in future versions! Update your runcards
+[WARNING]: Please change NMC_NC_NOTFIXED_DW_EM-F2 to NMC_NC_NOTFIXED_EM-F2
+[WARNING]: Please change SLAC_NC_NOTFIXED_P_DW_EM-F2 to SLAC_NC_NOTFIXED_P_EM-F2
+[WARNING]: Please change SLAC_NC_NOTFIXED_D_DW_EM-F2 to SLAC_NC_NOTFIXED_D_EM-F2
+[WARNING]: Please change BCDMS_NC_NOTFIXED_P_DW_EM-F2 to BCDMS_NC_NOTFIXED_P_EM-F2
+[WARNING]: Please change BCDMS_NC_NOTFIXED_D_DW_EM-F2 to BCDMS_NC_NOTFIXED_D_EM-F2
+[WARNING]: Please change CHORUS_CC_NOTFIXED_PB_DW_NU-SIGMARED to CHORUS_CC_NOTFIXED_PB_NU-SIGMARED
+[WARNING]: Please change CHORUS_CC_NOTFIXED_PB_DW_NB-SIGMARED to CHORUS_CC_NOTFIXED_PB_NB-SIGMARED
+[WARNING]: Please change NUTEV_CC_NOTFIXED_FE_DW_NU-SIGMARED to NUTEV_CC_NOTFIXED_FE_NU-SIGMARED
+[WARNING]: Please change NUTEV_CC_NOTFIXED_FE_DW_NB-SIGMARED to NUTEV_CC_NOTFIXED_FE_NB-SIGMARED
+[WARNING]: Please change ATLAS_WJ_JET_8TEV_WP-PT to ATLAS_WJ_8TEV_WP-PT
+[WARNING]: Please change ATLAS_WJ_JET_8TEV_WM-PT to ATLAS_WJ_8TEV_WM-PT
+[WARNING]: Please change CMS_TTBAR_13TEV_LJ_2016_DIF_YTTBAR to CMS_TTBAR_13TEV_LJ_2016_DIF_YT
+[INFO]: All requirements processed and checked successfully. Executing actions.
+/home/klaurent/.conda/envs/nnpdf/lib/python3.9/site-packages/validphys/sumrules.py:141: IntegrationWarning: The integral is probably divergent, or slowly convergent.
+  return quad(rule_f, *lim, args=(pdf_member, Q), **config)[0]
+/home/klaurent/.conda/envs/nnpdf/lib/python3.9/site-packages/validphys/sumrules.py:141: IntegrationWarning: The integral is probably divergent, or slowly convergent.
+  return quad(rule_f, *lim, args=(pdf_member, Q), **config)[0]
+[INFO]: Cuts for DYE866_Z0_800GEV_PXSEC are not the same:
+Current Fit:
+[  0   1   2   3   4   5   6   7   8  10  11  12  13  14  15  16  17  18
+  20  21  22  23  24  25  26  27  28  30  31  32  33  34  35  36  37  38
+  42  43  44  45  46  47  48  49  50  54  55  56  57  58  59  60  61  62
+  66  67  68  69  70  71  72  73  74  78  79  80  81  82  83  84  85  86
+  90  91  92  93  94  95  96  97  98 104 105 106 107 108 109 110]
+
+Reference Fit:
+[  0   1   2   3   4   5   6   7   8  10  11  12  13  14  15  16  17  18
+  20  21  22  23  24  25  26  27  28  30  31  32  33  34  35  36  37  38
+  42  43  44  45  46  47  48  49  50  54  55  56  57  58  59  60  61  62
+  66  67  68  69  70  71  72  73  74  78  79  80  81  82  83  84  85  86
+  90  91  92  93  94  95  96  97  98 103 104 105 106 107 108 109 110]
+Traceback (most recent call last):
+  File [36m"/home/klaurent/.conda/envs/nnpdf/lib/python3.9/site-packages/validphys/dataplots.py"[39;49;00m, line [34m1231[39;49;00m, in plot_positivity[37m[39;49;00m
+[37m    [39;49;00max.errorbar([37m[39;49;00m
+  File [36m"/home/klaurent/.conda/envs/nnpdf/lib/python3.9/site-packages/matplotlib/__init__.py"[39;49;00m, line [34m1476[39;49;00m, in inner[37m[39;49;00m
+[37m    [39;49;00m[34mreturn[39;49;00m func([37m[39;49;00m
+  File [36m"/home/klaurent/.conda/envs/nnpdf/lib/python3.9/site-packages/matplotlib/axes/_axes.py"[39;49;00m, line [34m3743[39;49;00m, in errorbar[37m[39;49;00m
+[37m    [39;49;00m[34mraise[39;49;00m [36mValueError[39;49;00m([37m[39;49;00m
+[91mValueError[39;49;00m: 'yerr' must not contain negative values[37m[39;49;00m
+[37m[39;49;00m
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File [36m"/home/klaurent/.conda/envs/nnpdf/bin/vp-comparefits"[39;49;00m, line [34m10[39;49;00m, in <module>[37m[39;49;00m
+[37m    [39;49;00msys.exit(main())[37m[39;49;00m
+  File [36m"/home/klaurent/.conda/envs/nnpdf/lib/python3.9/site-packages/validphys/scripts/vp_comparefits.py"[39;49;00m, line [34m250[39;49;00m, in main[37m[39;49;00m
+[37m    [39;49;00ma.main()[37m[39;49;00m
+  File [36m"/home/klaurent/.conda/envs/nnpdf/lib/python3.9/site-packages/reportengine/app.py"[39;49;00m, line [34m421[39;49;00m, in main[37m[39;49;00m
+[37m    [39;49;00m[36mself[39;49;00m.run()[37m[39;49;00m
+  File [36m"/home/klaurent/.conda/envs/nnpdf/lib/python3.9/site-packages/validphys/app.py"[39;49;00m, line [34m150[39;49;00m, in run[37m[39;49;00m
+[37m    [39;49;00m[36msuper[39;49;00m().run()[37m[39;49;00m
+  File [36m"/home/klaurent/.conda/envs/nnpdf/lib/python3.9/site-packages/reportengine/app.py"[39;49;00m, line [34m406[39;49;00m, in run[37m[39;49;00m
+[37m    [39;49;00mrb.execute_sequential()[37m[39;49;00m
+  File [36m"/home/klaurent/.conda/envs/nnpdf/lib/python3.9/site-packages/reportengine/resourcebuilder.py"[39;49;00m, line [34m210[39;49;00m, in execute_sequential[37m[39;49;00m
+[37m    [39;49;00mresult = [36mself[39;49;00m.get_result(callspec.function,[37m[39;49;00m
+  File [36m"/home/klaurent/.conda/envs/nnpdf/lib/python3.9/site-packages/reportengine/resourcebuilder.py"[39;49;00m, line [34m380[39;49;00m, in get_result[37m[39;49;00m
+[37m    [39;49;00mfres = function(**kwdict)[37m[39;49;00m
+  File [36m"/home/klaurent/.conda/envs/nnpdf/lib/python3.9/site-packages/validphys/dataplots.py"[39;49;00m, line [34m1275[39;49;00m, in plot_dataspecs_positivity[37m[39;49;00m
+[37m    [39;49;00m[34mreturn[39;49;00m plot_positivity([37m[39;49;00m
+  File [36m"/home/klaurent/.conda/envs/nnpdf/lib/python3.9/site-packages/validphys/dataplots.py"[39;49;00m, line [34m1243[39;49;00m, in plot_positivity[37m[39;49;00m
+[37m    [39;49;00m[34mraise[39;49;00m [36mValueError[39;49;00m([37m[39;49;00m
+[91mValueError[39;49;00m: The central value of Current Fit for NNPDF_POS_2P24GEV_F2S is outside of the error bands. This is not supported[37m[39;49;00m
+
+[CRITICAL]: A critical error occurred. This is likely due to one of the following reasons:
+
+ - A bug in validphys.
+ - Corruption of the provided resources (e.g. incorrect plotting files).
+ - Cosmic rays hitting your CPU and altering the registers.
+
+The traceback above should help determine the cause of the problem. If you
+believe this is a bug in validphys (please discard the cosmic rays first),
+please open an issue on GitHub<https://github.com/NNPDF/nnpdf/issues>,
+including the contents of the following file:
+
+/tmp/validphys-crash-tpxwhvk7
+
+
+----
+
+----
+
