@@ -1,12 +1,12 @@
 	mean	std
-u momentum fraction	3.3057393931E-1	1.2E-10
-ubar momentum fraction	3.0663571168E-2	2.0E-11
-d momentum fraction	1.59109803993E-1	2.0E-11
-dbar momentum fraction	4.0696488385E-2	3.1E-11
-s momentum fraction	2.9674825223E-2	1.9E-11
-sbar momentum fraction	1.9101120773E-2	4.0E-11
-cp momentum fraction	7.8214711478E-3	7.4E-12
-cm momentum fraction	-7.533993E-8	4.4E-13
-g momentum fraction	3.8235649663E-1	2.7E-10
-T3	6.81015631E-1	6.1E-8
-T8	4.489902128	2.9E-8
+u momentum fraction	0.3292	0.0023
+ubar momentum fraction	3.068E-2	9.1E-4
+d momentum fraction	0.1571	0.0030
+dbar momentum fraction	0.0414	0.0017
+s momentum fraction	0.0278	0.0032
+sbar momentum fraction	0.0192	0.0016
+cp momentum fraction	0.0081	0.0019
+cm momentum fraction	-7.46E-8	1.1E-9
+g momentum fraction	0.3865	0.0032
+T3	0.83	0.27
+T8	4.59	0.63

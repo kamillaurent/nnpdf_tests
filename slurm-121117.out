@@ -7411,3 +7411,180 @@ Validation chi2s: DEUTERON: 2.406, NMC: 3.287, NUCLEAR: 2.158, HERACOMB: 2.183, 
 [INFO]: Epoch 4500/17000: loss: 7907.3740234
 Validation loss after training step: 2.4853330.
 Validation chi2s: DEUTERON: 2.441, NMC: 3.242, NUCLEAR: 2.155, HERACOMB: 2.182, DYE886: 1.186, CDF: 4.898, D0: 2.352, ATLAS: 2.947, CMS: 3.101, LHCb: 2.591, total: 2.485
+[INFO]: Epoch 4600/17000: loss: 7885.9160156
+Validation loss after training step: 2.4719844.
+Validation chi2s: DEUTERON: 2.413, NMC: 3.226, NUCLEAR: 2.148, HERACOMB: 2.183, DYE886: 1.171, CDF: 4.863, D0: 2.257, ATLAS: 2.926, CMS: 3.096, LHCb: 2.525, total: 2.472
+[INFO]: Epoch 4700/17000: loss: 8638.2045898
+Validation loss after training step: 2.5537028.
+Validation chi2s: DEUTERON: 2.397, NMC: 3.277, NUCLEAR: 2.209, HERACOMB: 2.208, DYE886: 1.495, CDF: 4.461, D0: 2.212, ATLAS: 2.880, CMS: 3.346, LHCb: 4.007, total: 2.554
+[INFO]: Epoch 4800/17000: loss: 7869.0009766
+Validation loss after training step: 2.4750500.
+Validation chi2s: DEUTERON: 2.367, NMC: 3.225, NUCLEAR: 2.146, HERACOMB: 2.177, DYE886: 1.205, CDF: 4.933, D0: 2.208, ATLAS: 2.960, CMS: 3.168, LHCb: 2.522, total: 2.475
+[INFO]: Epoch 4900/17000: loss: 7855.0903320
+Validation loss after training step: 2.4551754.
+Validation chi2s: DEUTERON: 2.351, NMC: 3.213, NUCLEAR: 2.147, HERACOMB: 2.175, DYE886: 1.257, CDF: 4.823, D0: 2.007, ATLAS: 2.865, CMS: 3.159, LHCb: 2.526, total: 2.455
+[INFO]: Epoch 5000/17000: loss: 7848.9458008
+Validation loss after training step: 2.4651203.
+Validation chi2s: DEUTERON: 2.345, NMC: 3.253, NUCLEAR: 2.153, HERACOMB: 2.199, DYE886: 1.206, CDF: 4.857, D0: 2.326, ATLAS: 2.932, CMS: 3.065, LHCb: 2.500, total: 2.465
+[INFO]: Epoch 5100/17000: loss: 7840.8837891
+Validation loss after training step: 2.4596479.
+Validation chi2s: DEUTERON: 2.407, NMC: 3.176, NUCLEAR: 2.141, HERACOMB: 2.170, DYE886: 1.241, CDF: 4.781, D0: 2.045, ATLAS: 2.858, CMS: 3.150, LHCb: 2.575, total: 2.460
+[INFO]: Epoch 5200/17000: loss: 7828.4511719
+Validation loss after training step: 2.4664857.
+Validation chi2s: DEUTERON: 2.387, NMC: 3.206, NUCLEAR: 2.159, HERACOMB: 2.186, DYE886: 1.183, CDF: 4.817, D0: 2.258, ATLAS: 2.912, CMS: 3.100, LHCb: 2.465, total: 2.466
+[INFO]: Epoch 5300/17000: loss: 7823.7182617
+Validation loss after training step: 2.4616239.
+Validation chi2s: DEUTERON: 2.355, NMC: 3.217, NUCLEAR: 2.162, HERACOMB: 2.198, DYE886: 1.203, CDF: 4.815, D0: 2.276, ATLAS: 2.888, CMS: 3.087, LHCb: 2.492, total: 2.462
+[INFO]: Epoch 5400/17000: loss: 7813.2294922
+Validation loss after training step: 2.4663725.
+Validation chi2s: DEUTERON: 2.386, NMC: 3.204, NUCLEAR: 2.158, HERACOMB: 2.193, DYE886: 1.194, CDF: 4.823, D0: 2.345, ATLAS: 2.899, CMS: 3.086, LHCb: 2.505, total: 2.466
+[INFO]: Epoch 5500/17000: loss: 7809.3149414
+Validation loss after training step: 2.4493361.
+Validation chi2s: DEUTERON: 2.383, NMC: 3.163, NUCLEAR: 2.151, HERACOMB: 2.171, DYE886: 1.301, CDF: 4.710, D0: 1.966, ATLAS: 2.796, CMS: 3.162, LHCb: 2.568, total: 2.449
+[INFO]: Epoch 5600/17000: loss: 7799.2851562
+Validation loss after training step: 2.4668405.
+Validation chi2s: DEUTERON: 2.428, NMC: 3.174, NUCLEAR: 2.160, HERACOMB: 2.192, DYE886: 1.198, CDF: 4.765, D0: 2.317, ATLAS: 2.875, CMS: 3.084, LHCb: 2.451, total: 2.467
+[INFO]: Epoch 5700/17000: loss: 7794.0712891
+Validation loss after training step: 2.4514539.
+Validation chi2s: DEUTERON: 2.432, NMC: 3.116, NUCLEAR: 2.150, HERACOMB: 2.165, DYE886: 1.267, CDF: 4.664, D0: 1.946, ATLAS: 2.760, CMS: 3.208, LHCb: 2.533, total: 2.451
+[INFO]: Epoch 5800/17000: loss: 7801.5468750
+Validation loss after training step: 2.4566243.
+Validation chi2s: DEUTERON: 2.402, NMC: 3.156, NUCLEAR: 2.156, HERACOMB: 2.190, DYE886: 1.220, CDF: 4.727, D0: 2.175, ATLAS: 2.847, CMS: 3.096, LHCb: 2.461, total: 2.457
+[INFO]: Epoch 5900/17000: loss: 7791.9912109
+Validation loss after training step: 2.4467587.
+Validation chi2s: DEUTERON: 2.402, NMC: 3.135, NUCLEAR: 2.154, HERACOMB: 2.182, DYE886: 1.253, CDF: 4.632, D0: 2.040, ATLAS: 2.788, CMS: 3.117, LHCb: 2.509, total: 2.447
+[INFO]: Epoch 6000/17000: loss: 7801.7167969
+Validation loss after training step: 2.4493701.
+Validation chi2s: DEUTERON: 2.404, NMC: 3.101, NUCLEAR: 2.150, HERACOMB: 2.174, DYE886: 1.297, CDF: 4.666, D0: 1.978, ATLAS: 2.789, CMS: 3.172, LHCb: 2.522, total: 2.449
+[INFO]: Epoch 6100/17000: loss: 7784.9707031
+Validation loss after training step: 2.4578872.
+Validation chi2s: DEUTERON: 2.398, NMC: 3.132, NUCLEAR: 2.157, HERACOMB: 2.196, DYE886: 1.228, CDF: 4.729, D0: 2.198, ATLAS: 2.866, CMS: 3.080, LHCb: 2.454, total: 2.458
+[INFO]: Epoch 6200/17000: loss: 7808.9916992
+Validation loss after training step: 2.4498904.
+Validation chi2s: DEUTERON: 2.391, NMC: 3.062, NUCLEAR: 2.153, HERACOMB: 2.174, DYE886: 1.245, CDF: 4.755, D0: 2.025, ATLAS: 2.859, CMS: 3.121, LHCb: 2.472, total: 2.450
+[INFO]: Epoch 6300/17000: loss: 7789.9238281
+Validation loss after training step: 2.4535689.
+Validation chi2s: DEUTERON: 2.428, NMC: 3.089, NUCLEAR: 2.161, HERACOMB: 2.189, DYE886: 1.235, CDF: 4.689, D0: 2.200, ATLAS: 2.818, CMS: 3.091, LHCb: 2.448, total: 2.454
+[INFO]: Epoch 6400/17000: loss: 7780.2968750
+Validation loss after training step: 2.4581084.
+Validation chi2s: DEUTERON: 2.428, NMC: 3.087, NUCLEAR: 2.149, HERACOMB: 2.186, DYE886: 1.269, CDF: 4.679, D0: 2.019, ATLAS: 2.832, CMS: 3.129, LHCb: 2.539, total: 2.458
+[INFO]: Epoch 6500/17000: loss: 7771.9287109
+Validation loss after training step: 2.4473104.
+Validation chi2s: DEUTERON: 2.416, NMC: 3.052, NUCLEAR: 2.148, HERACOMB: 2.173, DYE886: 1.322, CDF: 4.659, D0: 1.913, ATLAS: 2.786, CMS: 3.161, LHCb: 2.538, total: 2.447
+[INFO]: Epoch 6600/17000: loss: 7783.2509766
+Validation loss after training step: 2.4482865.
+Validation chi2s: DEUTERON: 2.420, NMC: 3.060, NUCLEAR: 2.148, HERACOMB: 2.173, DYE886: 1.293, CDF: 4.674, D0: 1.941, ATLAS: 2.802, CMS: 3.144, LHCb: 2.516, total: 2.448
+[INFO]: Epoch 6700/17000: loss: 7766.3896484
+Validation loss after training step: 2.4553075.
+Validation chi2s: DEUTERON: 2.413, NMC: 3.080, NUCLEAR: 2.157, HERACOMB: 2.198, DYE886: 1.239, CDF: 4.752, D0: 2.081, ATLAS: 2.858, CMS: 3.068, LHCb: 2.445, total: 2.455
+[INFO]: Epoch 6800/17000: loss: 7763.3447266
+Validation loss after training step: 2.4516940.
+Validation chi2s: DEUTERON: 2.401, NMC: 3.066, NUCLEAR: 2.159, HERACOMB: 2.193, DYE886: 1.250, CDF: 4.735, D0: 2.066, ATLAS: 2.848, CMS: 3.075, LHCb: 2.459, total: 2.452
+[INFO]: Epoch 6900/17000: loss: 7762.6811523
+Validation loss after training step: 2.4511096.
+Validation chi2s: DEUTERON: 2.415, NMC: 3.047, NUCLEAR: 2.155, HERACOMB: 2.194, DYE886: 1.253, CDF: 4.740, D0: 2.083, ATLAS: 2.855, CMS: 3.043, LHCb: 2.489, total: 2.451
+[INFO]: Epoch 7000/17000: loss: 7771.4189453
+Validation loss after training step: 2.4507029.
+Validation chi2s: DEUTERON: 2.408, NMC: 3.053, NUCLEAR: 2.161, HERACOMB: 2.204, DYE886: 1.262, CDF: 4.766, D0: 2.058, ATLAS: 2.819, CMS: 3.068, LHCb: 2.460, total: 2.451
+[INFO]: Epoch 7100/17000: loss: 7773.2241211
+Validation loss after training step: 2.4499435.
+Validation chi2s: DEUTERON: 2.435, NMC: 2.996, NUCLEAR: 2.146, HERACOMB: 2.182, DYE886: 1.294, CDF: 4.745, D0: 1.931, ATLAS: 2.823, CMS: 3.099, LHCb: 2.563, total: 2.450
+[INFO]: Epoch 7200/17000: loss: 7771.5507812
+Validation loss after training step: 2.4495916.
+Validation chi2s: DEUTERON: 2.439, NMC: 3.014, NUCLEAR: 2.145, HERACOMB: 2.182, DYE886: 1.305, CDF: 4.702, D0: 1.890, ATLAS: 2.808, CMS: 3.100, LHCb: 2.585, total: 2.450
+[INFO]: Epoch 7300/17000: loss: 7798.7983398
+Validation loss after training step: 2.4474430.
+Validation chi2s: DEUTERON: 2.407, NMC: 3.020, NUCLEAR: 2.150, HERACOMB: 2.200, DYE886: 1.304, CDF: 4.718, D0: 1.974, ATLAS: 2.803, CMS: 3.086, LHCb: 2.546, total: 2.447
+[INFO]: Epoch 7400/17000: loss: 7750.9653320
+Validation loss after training step: 2.4494841.
+Validation chi2s: DEUTERON: 2.421, NMC: 2.974, NUCLEAR: 2.152, HERACOMB: 2.199, DYE886: 1.314, CDF: 4.712, D0: 1.896, ATLAS: 2.797, CMS: 3.120, LHCb: 2.524, total: 2.449
+[INFO]: Epoch 7500/17000: loss: 7740.1269531
+Validation loss after training step: 2.4486384.
+Validation chi2s: DEUTERON: 2.447, NMC: 2.967, NUCLEAR: 2.146, HERACOMB: 2.179, DYE886: 1.290, CDF: 4.756, D0: 1.907, ATLAS: 2.804, CMS: 3.118, LHCb: 2.548, total: 2.449
+[INFO]: Epoch 7600/17000: loss: 8039.4770508
+Validation loss after training step: 2.4524224.
+Validation chi2s: DEUTERON: 2.424, NMC: 2.982, NUCLEAR: 2.142, HERACOMB: 2.184, DYE886: 1.305, CDF: 4.763, D0: 1.955, ATLAS: 2.856, CMS: 3.098, LHCb: 2.570, total: 2.452
+[INFO]: Epoch 7700/17000: loss: 7752.5517578
+Validation loss after training step: 2.4496431.
+Validation chi2s: DEUTERON: 2.456, NMC: 2.979, NUCLEAR: 2.145, HERACOMB: 2.185, DYE886: 1.300, CDF: 4.699, D0: 1.927, ATLAS: 2.786, CMS: 3.120, LHCb: 2.548, total: 2.450
+[INFO]: Epoch 7800/17000: loss: 7739.1870117
+Validation loss after training step: 2.4411242.
+Validation chi2s: DEUTERON: 2.433, NMC: 2.992, NUCLEAR: 2.154, HERACOMB: 2.192, DYE886: 1.286, CDF: 4.675, D0: 2.006, ATLAS: 2.784, CMS: 3.046, LHCb: 2.506, total: 2.441
+[INFO]: Epoch 7900/17000: loss: 7733.4663086
+Validation loss after training step: 2.4414699.
+Validation chi2s: DEUTERON: 2.421, NMC: 2.997, NUCLEAR: 2.154, HERACOMB: 2.201, DYE886: 1.283, CDF: 4.740, D0: 2.057, ATLAS: 2.792, CMS: 3.028, LHCb: 2.501, total: 2.441
+[INFO]: Epoch 8000/17000: loss: 7745.9379883
+Validation loss after training step: 2.4341252.
+Validation chi2s: DEUTERON: 2.417, NMC: 2.986, NUCLEAR: 2.152, HERACOMB: 2.186, DYE886: 1.295, CDF: 4.684, D0: 1.981, ATLAS: 2.785, CMS: 3.030, LHCb: 2.484, total: 2.434
+[INFO]: Epoch 8100/17000: loss: 7806.8520508
+Validation loss after training step: 2.4538453.
+Validation chi2s: DEUTERON: 2.457, NMC: 2.940, NUCLEAR: 2.141, HERACOMB: 2.191, DYE886: 1.316, CDF: 4.742, D0: 1.883, ATLAS: 2.780, CMS: 3.156, LHCb: 2.630, total: 2.454
+[INFO]: Epoch 8200/17000: loss: 7738.9873047
+Validation loss after training step: 2.4363194.
+Validation chi2s: DEUTERON: 2.426, NMC: 2.933, NUCLEAR: 2.146, HERACOMB: 2.180, DYE886: 1.304, CDF: 4.696, D0: 1.908, ATLAS: 2.779, CMS: 3.093, LHCb: 2.512, total: 2.436
+[INFO]: Epoch 8300/17000: loss: 7717.8212891
+Validation loss after training step: 2.4488058.
+Validation chi2s: DEUTERON: 2.416, NMC: 2.910, NUCLEAR: 2.151, HERACOMB: 2.202, DYE886: 1.267, CDF: 4.711, D0: 1.960, ATLAS: 2.853, CMS: 3.096, LHCb: 2.409, total: 2.449
+[INFO]: Epoch 8400/17000: loss: 7716.4213867
+Validation loss after training step: 2.4315021.
+Validation chi2s: DEUTERON: 2.429, NMC: 2.974, NUCLEAR: 2.153, HERACOMB: 2.193, DYE886: 1.297, CDF: 4.639, D0: 2.032, ATLAS: 2.734, CMS: 3.043, LHCb: 2.487, total: 2.432
+[INFO]: Epoch 8500/17000: loss: 7725.3764648
+Validation loss after training step: 2.4336286.
+Validation chi2s: DEUTERON: 2.437, NMC: 2.950, NUCLEAR: 2.149, HERACOMB: 2.182, DYE886: 1.270, CDF: 4.679, D0: 1.986, ATLAS: 2.791, CMS: 3.027, LHCb: 2.463, total: 2.434
+[INFO]: Epoch 8600/17000: loss: 7718.5903320
+Validation loss after training step: 2.4309886.
+Validation chi2s: DEUTERON: 2.421, NMC: 2.964, NUCLEAR: 2.154, HERACOMB: 2.190, DYE886: 1.275, CDF: 4.672, D0: 2.032, ATLAS: 2.761, CMS: 3.032, LHCb: 2.456, total: 2.431
+[INFO]: Epoch 8700/17000: loss: 7720.2377930
+Validation loss after training step: 2.4397192.
+Validation chi2s: DEUTERON: 2.372, NMC: 2.914, NUCLEAR: 2.156, HERACOMB: 2.217, DYE886: 1.309, CDF: 4.612, D0: 1.888, ATLAS: 2.791, CMS: 3.129, LHCb: 2.392, total: 2.440
+[INFO]: Epoch 8800/17000: loss: 7725.8647461
+Validation loss after training step: 2.4369323.
+Validation chi2s: DEUTERON: 2.442, NMC: 2.915, NUCLEAR: 2.143, HERACOMB: 2.176, DYE886: 1.287, CDF: 4.551, D0: 1.842, ATLAS: 2.769, CMS: 3.136, LHCb: 2.480, total: 2.437
+[INFO]: Epoch 8900/17000: loss: 7730.4785156
+Validation loss after training step: 2.4282165.
+Validation chi2s: DEUTERON: 2.430, NMC: 2.900, NUCLEAR: 2.141, HERACOMB: 2.162, DYE886: 1.301, CDF: 4.550, D0: 1.869, ATLAS: 2.780, CMS: 3.094, LHCb: 2.485, total: 2.428
+[INFO]: Epoch 9000/17000: loss: 7724.0048828
+Validation loss after training step: 2.4281962.
+Validation chi2s: DEUTERON: 2.411, NMC: 2.976, NUCLEAR: 2.152, HERACOMB: 2.184, DYE886: 1.302, CDF: 4.624, D0: 1.959, ATLAS: 2.763, CMS: 3.024, LHCb: 2.505, total: 2.428
+[INFO]: Epoch 9100/17000: loss: 7726.9438477
+Validation loss after training step: 2.4269443.
+Validation chi2s: DEUTERON: 2.417, NMC: 2.955, NUCLEAR: 2.151, HERACOMB: 2.182, DYE886: 1.306, CDF: 4.569, D0: 1.969, ATLAS: 2.752, CMS: 3.035, LHCb: 2.504, total: 2.427
+[INFO]: Epoch 9200/17000: loss: 7730.0795898
+Validation loss after training step: 2.4259393.
+Validation chi2s: DEUTERON: 2.415, NMC: 2.949, NUCLEAR: 2.153, HERACOMB: 2.185, DYE886: 1.295, CDF: 4.616, D0: 1.991, ATLAS: 2.735, CMS: 3.053, LHCb: 2.466, total: 2.426
+[INFO]: Epoch 9300/17000: loss: 7720.3964844
+Validation loss after training step: 2.4280126.
+Validation chi2s: DEUTERON: 2.420, NMC: 2.937, NUCLEAR: 2.156, HERACOMB: 2.184, DYE886: 1.273, CDF: 4.626, D0: 2.082, ATLAS: 2.780, CMS: 3.004, LHCb: 2.438, total: 2.428
+[INFO]: Epoch 9400/17000: loss: 7751.8364258
+Validation loss after training step: 2.4270909.
+Validation chi2s: DEUTERON: 2.423, NMC: 2.945, NUCLEAR: 2.157, HERACOMB: 2.182, DYE886: 1.280, CDF: 4.657, D0: 1.987, ATLAS: 2.765, CMS: 3.008, LHCb: 2.462, total: 2.427
+[INFO]: Epoch 9500/17000: loss: 7720.9135742
+Validation loss after training step: 2.4293842.
+Validation chi2s: DEUTERON: 2.426, NMC: 2.944, NUCLEAR: 2.156, HERACOMB: 2.175, DYE886: 1.284, CDF: 4.572, D0: 2.038, ATLAS: 2.784, CMS: 3.027, LHCb: 2.436, total: 2.429
+[INFO]: Epoch 9600/17000: loss: 7731.8349609
+Validation loss after training step: 2.4310830.
+Validation chi2s: DEUTERON: 2.419, NMC: 2.904, NUCLEAR: 2.146, HERACOMB: 2.177, DYE886: 1.279, CDF: 4.680, D0: 2.011, ATLAS: 2.790, CMS: 3.069, LHCb: 2.459, total: 2.431
+[INFO]: Epoch 9700/17000: loss: 7710.2172852
+Validation loss after training step: 2.4287620.
+Validation chi2s: DEUTERON: 2.402, NMC: 2.932, NUCLEAR: 2.146, HERACOMB: 2.179, DYE886: 1.402, CDF: 4.649, D0: 1.852, ATLAS: 2.744, CMS: 3.092, LHCb: 2.550, total: 2.429
+[INFO]: Epoch 9800/17000: loss: 7714.0336914
+Validation loss after training step: 2.4289777.
+Validation chi2s: DEUTERON: 2.403, NMC: 2.940, NUCLEAR: 2.157, HERACOMB: 2.184, DYE886: 1.269, CDF: 4.667, D0: 2.036, ATLAS: 2.790, CMS: 3.033, LHCb: 2.412, total: 2.429
+[INFO]: Epoch 9900/17000: loss: 7719.4472656
+Validation loss after training step: 2.4345095.
+Validation chi2s: DEUTERON: 2.432, NMC: 2.926, NUCLEAR: 2.144, HERACOMB: 2.176, DYE886: 1.317, CDF: 4.587, D0: 1.962, ATLAS: 2.760, CMS: 3.098, LHCb: 2.550, total: 2.435
+[INFO]: Epoch 10000/17000: loss: 7707.5405273
+Validation loss after training step: 2.4405022.
+Validation chi2s: DEUTERON: 2.388, NMC: 2.948, NUCLEAR: 2.161, HERACOMB: 2.201, DYE886: 1.269, CDF: 4.628, D0: 1.941, ATLAS: 2.800, CMS: 3.119, LHCb: 2.381, total: 2.441
+[INFO]: Epoch 10100/17000: loss: 7716.0551758
+Validation loss after training step: 2.4318800.
+Validation chi2s: DEUTERON: 2.405, NMC: 2.924, NUCLEAR: 2.153, HERACOMB: 2.184, DYE886: 1.257, CDF: 4.629, D0: 2.031, ATLAS: 2.833, CMS: 3.022, LHCb: 2.387, total: 2.432
+[INFO]: Epoch 10200/17000: loss: 7711.2934570
+Validation loss after training step: 2.4383705.
+Validation chi2s: DEUTERON: 2.406, NMC: 2.924, NUCLEAR: 2.151, HERACOMB: 2.183, DYE886: 1.288, CDF: 4.571, D0: 1.896, ATLAS: 2.791, CMS: 3.143, LHCb: 2.449, total: 2.438
+[INFO]: Epoch 10300/17000: loss: 7726.6635742
+Validation loss after training step: 2.4384806.
+Validation chi2s: DEUTERON: 2.419, NMC: 2.906, NUCLEAR: 2.147, HERACOMB: 2.172, DYE886: 1.250, CDF: 4.627, D0: 1.935, ATLAS: 2.808, CMS: 3.143, LHCb: 2.437, total: 2.438
+[INFO]: Epoch 10400/17000: loss: 7711.6186523
+Validation loss after training step: 2.4335468.
+Validation chi2s: DEUTERON: 2.399, NMC: 2.996, NUCLEAR: 2.161, HERACOMB: 2.199, DYE886: 1.281, CDF: 4.541, D0: 2.011, ATLAS: 2.774, CMS: 3.029, LHCb: 2.466, total: 2.434

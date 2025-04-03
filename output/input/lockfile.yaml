@@ -102,7 +102,7 @@ meta:
   - NNPDF comparison 1
 current:
   fit: &id001
-    id: nnpdf40-like
+    id: 240701-02-rs-nnpdf40-baseline
     label: Current Fit
   pdf: *id001
   theory:

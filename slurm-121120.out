@@ -1,0 +1,13 @@
+
+CondaError: Run 'conda init' before 'conda activate'
+
+/var/spool/slurmd/job121120/slurm_script: line 9: n3fit: command not found
+/var/spool/slurmd/job121120/slurm_script: line 9: n3fit: command not found
+/var/spool/slurmd/job121120/slurm_script: line 9: n3fit: command not found
+/var/spool/slurmd/job121120/slurm_script: line 9: n3fit: command not found
+/var/spool/slurmd/job121120/slurm_script: line 9: n3fit: command not found
+/var/spool/slurmd/job121120/slurm_script: line 9: n3fit: command not found
+/var/spool/slurmd/job121120/slurm_script: line 9: n3fit: command not found
+/var/spool/slurmd/job121120/slurm_script: line 9: n3fit: command not found
+/var/spool/slurmd/job121120/slurm_script: line 9: n3fit: command not found
+/var/spool/slurmd/job121120/slurm_script: line 9: n3fit: command not found
