@@ -1,28 +1,20 @@
-Missing file: /mnt/storage/laurent/NNPDF/nnpdf40-like/nnfit/replica_2/chi2exps.log
-Missing file: /mnt/storage/laurent/NNPDF/nnpdf40-like/nnfit/replica_2/nnpdf40-like.dat
-Missing file: /mnt/storage/laurent/NNPDF/nnpdf40-like/nnfit/replica_2/nnpdf40-like.json
-Found invalid replica /mnt/storage/laurent/NNPDF/nnpdf40-like/nnfit/replica_2
-Missing file: /mnt/storage/laurent/NNPDF/nnpdf40-like/nnfit/replica_4/chi2exps.log
-Missing file: /mnt/storage/laurent/NNPDF/nnpdf40-like/nnfit/replica_4/nnpdf40-like.dat
-Missing file: /mnt/storage/laurent/NNPDF/nnpdf40-like/nnfit/replica_4/nnpdf40-like.json
-Found invalid replica /mnt/storage/laurent/NNPDF/nnpdf40-like/nnfit/replica_4
-3 total replicas found
-1 valid replicas found
-Passing average chi2: 1.2789270877838135
-1 replicas pass Positivity
-1 replicas pass IntegNumber_0
-1 replicas pass IntegNumber_1
-1 replicas pass IntegNumber_2
-1 replicas pass IntegNumber_3
-1 replicas pass IntegNumber_4
-1 replicas pass ChiSquared
-1 replicas pass ArcLength_0
-1 replicas pass ArcLength_1
-1 replicas pass ArcLength_2
-1 replicas pass ArcLength_3
-1 replicas pass ArcLength_4
-1 replicas pass Total
-1 replicas written to the postfit folder
+10 total replicas found
+10 valid replicas found
+Passing average chi2: 1.26434166431427
+10 replicas pass Positivity
+10 replicas pass IntegNumber_0
+10 replicas pass IntegNumber_1
+10 replicas pass IntegNumber_2
+10 replicas pass IntegNumber_3
+10 replicas pass IntegNumber_4
+10 replicas pass ChiSquared
+10 replicas pass ArcLength_0
+10 replicas pass ArcLength_1
+10 replicas pass ArcLength_2
+10 replicas pass ArcLength_3
+10 replicas pass ArcLength_4
+10 replicas pass Total
+10 replicas written to the postfit folder
 Beginning construction of replica 0
 
 

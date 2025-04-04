@@ -1,0 +1,101 @@
+{
+  "100": {
+    "training_loss": 67569.0,
+    "validation_loss": [
+      4102.900390625
+    ],
+    "validation_chi2s": {
+      "DEUTERON": 92.32950439453126,
+      "ATLAS": 30.62246149236506,
+      "total": 79.0201416015625
+    }
+  },
+  "200": {
+    "training_loss": 8452.3203125,
+    "validation_loss": [
+      3797.8115234375
+    ],
+    "validation_chi2s": {
+      "DEUTERON": 85.354296875,
+      "ATLAS": 22.713451038707387,
+      "total": 71.8435287475586
+    }
+  },
+  "300": {
+    "training_loss": 5143.75927734375,
+    "validation_loss": [
+      4111.537109375
+    ],
+    "validation_chi2s": {
+      "DEUTERON": 98.03173828125,
+      "ATLAS": 16.73573719371449,
+      "total": 80.49730682373047
+    }
+  },
+  "400": {
+    "training_loss": 5078.626953125,
+    "validation_loss": [
+      3858.773681640625
+    ],
+    "validation_chi2s": {
+      "DEUTERON": 85.950390625,
+      "ATLAS": 22.904631181196734,
+      "total": 72.35228729248047
+    }
+  },
+  "500": {
+    "training_loss": 4764.25,
+    "validation_loss": [
+      3921.02734375
+    ],
+    "validation_chi2s": {
+      "DEUTERON": 87.96590576171874,
+      "ATLAS": 20.90472550825639,
+      "total": 73.5017318725586
+    }
+  },
+  "600": {
+    "training_loss": 5028.0,
+    "validation_loss": [
+      3454.12255859375
+    ],
+    "validation_chi2s": {
+      "DEUTERON": 80.04845581054687,
+      "ATLAS": 22.656387329101562,
+      "total": 67.6697769165039
+    }
+  },
+  "700": {
+    "training_loss": 68543.25,
+    "validation_loss": [
+      19125.787109375
+    ],
+    "validation_chi2s": {
+      "DEUTERON": 473.678369140625,
+      "ATLAS": 16.223636973987926,
+      "total": 375.0116882324219
+    }
+  },
+  "800": {
+    "training_loss": 4827.080078125,
+    "validation_loss": [
+      3533.48388671875
+    ],
+    "validation_chi2s": {
+      "DEUTERON": 78.64325561523438,
+      "ATLAS": 29.383400656960227,
+      "total": 68.01858520507812
+    }
+  },
+  "900": {
+    "training_loss": 6708.0,
+    "validation_loss": [
+      4281.3037109375
+    ],
+    "validation_chi2s": {
+      "DEUTERON": 91.98026123046876,
+      "ATLAS": 54.72692316228693,
+      "total": 83.94522857666016
+    }
+  }
+}

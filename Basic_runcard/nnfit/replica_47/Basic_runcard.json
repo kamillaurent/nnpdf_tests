@@ -1,0 +1,93 @@
+{
+  "preprocessing": [
+    {
+      "fl": "sng",
+      "smallx": 1.1622503995895386,
+      "largex": 2.465019702911377,
+      "trainable": false
+    },
+    {
+      "fl": "g",
+      "smallx": 1.1155099868774414,
+      "largex": 5.655863285064697,
+      "trainable": false
+    },
+    {
+      "fl": "v",
+      "smallx": 0.633749783039093,
+      "largex": 2.5821666717529297,
+      "trainable": false
+    },
+    {
+      "fl": "v3",
+      "smallx": 0.20999987423419952,
+      "largex": 1.5463075637817383,
+      "trainable": true
+    },
+    {
+      "fl": "v8",
+      "smallx": 0.5200857520103455,
+      "largex": 2.198075532913208,
+      "trainable": true
+    },
+    {
+      "fl": "t3",
+      "smallx": 0.03834318369626999,
+      "largex": 2.7100000381469727,
+      "trainable": true
+    },
+    {
+      "fl": "t8",
+      "smallx": 1.1699634790420532,
+      "largex": 2.312230110168457,
+      "trainable": true
+    },
+    {
+      "fl": "cp",
+      "smallx": 0.7307321429252625,
+      "largex": 5.186696529388428,
+      "trainable": true
+    }
+  ],
+  "stop_epoch": 835,
+  "best_epoch": 563,
+  "erf_tr": 1.6241109371185303,
+  "erf_vl": 1.6872764825820923,
+  "chi2": 0.9323574900627136,
+  "pos_state": "POS_PASS",
+  "arc_lengths": [
+    1.1738300286191237,
+    1.1452019886460558,
+    1.2579714907645654,
+    1.0738762124308807,
+    1.622205428167747
+  ],
+  "integrability": [
+    0.003230012720446873,
+    0.0032300127204492046,
+    3.2679742953956037e-06,
+    45.45996952056885,
+    0.0003855061477198163
+  ],
+  "timing": {
+    "walltime": {
+      "Total": 13.558421611785889,
+      "start": 0.0,
+      "replica_set": 0.17938232421875,
+      "replica_fitted": 13.558327436447144,
+      "replica_set_to_replica_fitted": 13.378945112228394
+    },
+    "cputime": {
+      "Total": 17.66750042,
+      "start": 0.0,
+      "replica_set": 0.158114737,
+      "replica_fitted": 17.667402396,
+      "replica_set_to_replica_fitted": 17.509287659
+    }
+  },
+  "version": {
+    "numpy": "1.26.4",
+    "nnpdf": "4.0.10",
+    "validphys": "4.0.10"
+  }
+}

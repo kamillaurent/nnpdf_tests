@@ -1,0 +1,6 @@
+module	Basic_runcard	240701-02-rs-nnpdf40-baseline
+numpy	1.26.4	1.26.4
+nnpdf	4.0.10	4.0.9.post1030.dev0+95a21cc.dirty
+validphys	4.0.10	4.0.9.post1030.dev0+95a21cc.dirty
+keras	unavailable	3.4.1
+tensorflow	unavailable	inconsistent

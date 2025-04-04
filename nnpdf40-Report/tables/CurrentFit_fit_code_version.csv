@@ -1,0 +1,4 @@
+module	nnpdf40-like
+numpy	1.26.4
+nnpdf	4.0.10
+validphys	4.0.10

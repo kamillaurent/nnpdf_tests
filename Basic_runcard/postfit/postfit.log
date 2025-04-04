@@ -1,20 +1,20 @@
-10 total replicas found
-10 valid replicas found
-Passing average chi2: 0.8882772922515869
-10 replicas pass Positivity
-10 replicas pass IntegNumber_0
-10 replicas pass IntegNumber_1
-10 replicas pass IntegNumber_2
-1 replicas pass IntegNumber_3
-10 replicas pass IntegNumber_4
-1 replicas pass ChiSquared
-1 replicas pass ArcLength_0
-1 replicas pass ArcLength_1
-1 replicas pass ArcLength_2
-1 replicas pass ArcLength_3
-1 replicas pass ArcLength_4
-1 replicas pass Total
-1 replicas written to the postfit folder
+100 total replicas found
+100 valid replicas found
+Passing average chi2: 0.9009261946929129
+91 replicas pass Positivity
+100 replicas pass IntegNumber_0
+100 replicas pass IntegNumber_1
+100 replicas pass IntegNumber_2
+23 replicas pass IntegNumber_3
+100 replicas pass IntegNumber_4
+89 replicas pass ChiSquared
+100 replicas pass ArcLength_0
+91 replicas pass ArcLength_1
+97 replicas pass ArcLength_2
+99 replicas pass ArcLength_3
+96 replicas pass ArcLength_4
+19 replicas pass Total
+19 replicas written to the postfit folder
 Beginning construction of replica 0
 
 

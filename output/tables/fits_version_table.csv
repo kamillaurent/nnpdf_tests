@@ -1,6 +1,0 @@
-module	240701-02-rs-nnpdf40-baseline	240701-02-rs-nnpdf40-baseline
-keras	3.4.1	3.4.1
-tensorflow	inconsistent	inconsistent
-numpy	1.26.4	1.26.4
-nnpdf	4.0.9.post1030.dev0+95a21cc.dirty	4.0.9.post1030.dev0+95a21cc.dirty
-validphys	4.0.9.post1030.dev0+95a21cc.dirty	4.0.9.post1030.dev0+95a21cc.dirty

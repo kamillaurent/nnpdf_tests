@@ -1,0 +1,93 @@
+{
+  "preprocessing": [
+    {
+      "fl": "sng",
+      "smallx": 1.1826266050338745,
+      "largex": 1.9839648008346558,
+      "trainable": false
+    },
+    {
+      "fl": "g",
+      "smallx": 1.1747711896896362,
+      "largex": 0.7425851821899414,
+      "trainable": false
+    },
+    {
+      "fl": "v",
+      "smallx": 0.5732645988464355,
+      "largex": 1.980468511581421,
+      "trainable": false
+    },
+    {
+      "fl": "v3",
+      "smallx": 0.21388569474220276,
+      "largex": 3.0799996852874756,
+      "trainable": true
+    },
+    {
+      "fl": "v8",
+      "smallx": 0.5199998617172241,
+      "largex": 3.274562358856201,
+      "trainable": true
+    },
+    {
+      "fl": "t3",
+      "smallx": 0.004897247068583965,
+      "largex": 2.276773452758789,
+      "trainable": true
+    },
+    {
+      "fl": "t8",
+      "smallx": 1.0861217975616455,
+      "largex": 1.504475712776184,
+      "trainable": true
+    },
+    {
+      "fl": "cp",
+      "smallx": 0.4492371678352356,
+      "largex": 6.689933776855469,
+      "trainable": true
+    }
+  ],
+  "stop_epoch": 900,
+  "best_epoch": 898,
+  "erf_tr": 1.9652734994888306,
+  "erf_vl": 2.456112861633301,
+  "chi2": 0.9569007158279419,
+  "pos_state": "POS_PASS",
+  "arc_lengths": [
+    1.159302827774894,
+    1.0903503289034948,
+    1.432499838750393,
+    1.125662979240112,
+    1.4910020260596666
+  ],
+  "integrability": [
+    0.0001324755903580055,
+    0.00013247559036089207,
+    5.158139811056728e-06,
+    25.3878755569458,
+    0.0007700678725072879
+  ],
+  "timing": {
+    "walltime": {
+      "Total": 15.695133209228516,
+      "start": 0.0,
+      "replica_set": 0.1685640811920166,
+      "replica_fitted": 15.694974184036255,
+      "replica_set_to_replica_fitted": 15.526410102844238
+    },
+    "cputime": {
+      "Total": 18.951867745,
+      "start": 0.0,
+      "replica_set": 0.1510435870000002,
+      "replica_fitted": 18.951706923000003,
+      "replica_set_to_replica_fitted": 18.800663336
+    }
+  },
+  "version": {
+    "numpy": "1.26.4",
+    "nnpdf": "4.0.10",
+    "validphys": "4.0.10"
+  }
+}

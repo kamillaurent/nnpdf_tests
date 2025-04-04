@@ -1,0 +1,90 @@
+{
+  "100": {
+    "training_loss": 7829.25,
+    "validation_loss": [
+      3837.853759765625
+    ],
+    "validation_chi2s": {
+      "DEUTERON": 81.55438232421875,
+      "ATLAS": 52.290771484375,
+      "total": 75.24262237548828
+    }
+  },
+  "200": {
+    "training_loss": 244553.25,
+    "validation_loss": [
+      318668.84375
+    ],
+    "validation_chi2s": {
+      "DEUTERON": 7958.62578125,
+      "ATLAS": 29.438593084161933,
+      "total": 6248.40869140625
+    }
+  },
+  "300": {
+    "training_loss": 316.0,
+    "validation_loss": [
+      174.2274932861328
+    ],
+    "validation_chi2s": {
+      "DEUTERON": 3.859552001953125,
+      "ATLAS": 1.8041291670365767,
+      "total": 3.4162256717681885
+    }
+  },
+  "400": {
+    "training_loss": 252.49960327148438,
+    "validation_loss": [
+      93.8177261352539
+    ],
+    "validation_chi2s": {
+      "DEUTERON": 1.8518199920654297,
+      "ATLAS": 1.7949933138760654,
+      "total": 1.839563250541687
+    }
+  },
+  "500": {
+    "training_loss": 242.6177978515625,
+    "validation_loss": [
+      93.71427917480469
+    ],
+    "validation_chi2s": {
+      "DEUTERON": 1.8684921264648438,
+      "ATLAS": 1.7249632748690518,
+      "total": 1.8375349044799805
+    }
+  },
+  "600": {
+    "training_loss": 241.6104736328125,
+    "validation_loss": [
+      92.88008117675781
+    ],
+    "validation_chi2s": {
+      "DEUTERON": 1.8508262634277344,
+      "ATLAS": 1.713366768576882,
+      "total": 1.8211780786514282
+    }
+  },
+  "700": {
+    "training_loss": 258.9119110107422,
+    "validation_loss": [
+      87.04179382324219
+    ],
+    "validation_chi2s": {
+      "DEUTERON": 1.7938901901245117,
+      "ATLAS": 1.3896536393599077,
+      "total": 1.7067018747329712
+    }
+  },
+  "800": {
+    "training_loss": 249.37628173828125,
+    "validation_loss": [
+      93.97410583496094
+    ],
+    "validation_chi2s": {
+      "DEUTERON": 1.9537261962890624,
+      "ATLAS": 1.4386421550403943,
+      "total": 1.8426296710968018
+    }
+  }
+}

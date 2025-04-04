@@ -18,7 +18,7 @@ MTop: 172.5
 MUp: 0.0
 MZ: 91.20000000000002
 NumFlavors: 5
-NumMembers: 2
+NumMembers: 11
 OrderQCD: 2
 Particle: 2212
 QMax: 100000.0
