@@ -5,16 +5,16 @@ Summary
 
 We are comparing:
 
-  - Current Fit (`nnpdf40-like`): NNLO baseline fit, NNPDF4.0 dataset, compare to NNPDF40_nnlo_as_01180_qcd
-  - Reference Fit (`240701-02-rs-nnpdf40-baseline`): NNPDF4.0 NNLO baseline fit (nFONLL). Comparable to NNPDF40_nnlo_as_01180_qcd
+  - NNPDF4.0-like (`nnpdf40-like`): NNLO baseline fit, NNPDF4.0 dataset, compare to NNPDF40_nnlo_as_01180_qcd
+  - NNPDF4.0-baseline (`240701-02-rs-nnpdf40-baseline`): NNPDF4.0 NNLO baseline fit (nFONLL). Comparable to NNPDF40_nnlo_as_01180_qcd
 
 
 <table class="dataframe">
 <thead>
 <tr style="text-align: right;">
 <th></th>
-<th>Current Fit</th>
-<th>Reference Fit</th>
+<th>NNPDF4.0-like</th>
+<th>NNPDF4.0-baseline</th>
 </tr>
 </thead>
 <tbody>
@@ -58,7 +58,7 @@ t0 losses
 <thead>
 <tr style="text-align: right;">
 <th></th>
-<th>Current Fit</th>
+<th>NNPDF4.0-like</th>
 </tr>
 </thead>
 <tbody>
@@ -80,7 +80,7 @@ t0 losses
 <thead>
 <tr style="text-align: right;">
 <th></th>
-<th>Reference Fit</th>
+<th>NNPDF4.0-baseline</th>
 </tr>
 </thead>
 <tbody>
@@ -105,8 +105,8 @@ Theory covariance summary
 <thead>
 <tr style="text-align: right;">
 <th></th>
-<th>Current Fit</th>
-<th>Reference Fit</th>
+<th>NNPDF4.0-like</th>
+<th>NNPDF4.0-baseline</th>
 </tr>
 </thead>
 <tbody>
@@ -793,7 +793,7 @@ PDF arc-lengths
 Sum rules
 ---------
 
-### Current Fit
+### NNPDF4.0-like
 
 #### Known sum rules
 
@@ -916,7 +916,7 @@ Sum rules
 </table>
 
 
-### Reference Fit
+### NNPDF4.0-baseline
 
 #### Known sum rules
 
@@ -1060,16 +1060,16 @@ Effective exponents
 
 Training lengths
 ----------------
-![[.png](figures/CurrentFit_plot_training_length.png) [.pdf](figures/CurrentFit_plot_training_length.pdf) [#](#CurrentFit_plot_training_length)](figures/CurrentFit_plot_training_length.png){#CurrentFit_plot_training_length} 
+![[.png](figures/NNPDF40-like_plot_training_length.png) [.pdf](figures/NNPDF40-like_plot_training_length.pdf) [#](#NNPDF40-like_plot_training_length)](figures/NNPDF40-like_plot_training_length.png){#NNPDF40-like_plot_training_length} 
 
-![[.png](figures/ReferenceFit_plot_training_length.png) [.pdf](figures/ReferenceFit_plot_training_length.pdf) [#](#ReferenceFit_plot_training_length)](figures/ReferenceFit_plot_training_length.png){#ReferenceFit_plot_training_length} 
+![[.png](figures/NNPDF40-baseline_plot_training_length.png) [.pdf](figures/NNPDF40-baseline_plot_training_length.pdf) [#](#NNPDF40-baseline_plot_training_length)](figures/NNPDF40-baseline_plot_training_length.png){#NNPDF40-baseline_plot_training_length} 
 
 
 Training-validation
 -------------------
-![[.png](figures/CurrentFit_plot_training_validation.png) [.pdf](figures/CurrentFit_plot_training_validation.pdf) [#](#CurrentFit_plot_training_validation)](figures/CurrentFit_plot_training_validation.png){#CurrentFit_plot_training_validation} 
+![[.png](figures/NNPDF40-like_plot_training_validation.png) [.pdf](figures/NNPDF40-like_plot_training_validation.pdf) [#](#NNPDF40-like_plot_training_validation)](figures/NNPDF40-like_plot_training_validation.png){#NNPDF40-like_plot_training_validation} 
 
-![[.png](figures/ReferenceFit_plot_training_validation.png) [.pdf](figures/ReferenceFit_plot_training_validation.pdf) [#](#ReferenceFit_plot_training_validation)](figures/ReferenceFit_plot_training_validation.png){#ReferenceFit_plot_training_validation} 
+![[.png](figures/NNPDF40-baseline_plot_training_validation.png) [.pdf](figures/NNPDF40-baseline_plot_training_validation.pdf) [#](#NNPDF40-baseline_plot_training_validation)](figures/NNPDF40-baseline_plot_training_validation.png){#NNPDF40-baseline_plot_training_validation} 
 
 
 
@@ -1096,8 +1096,8 @@ $\chi^2$ by dataset
 <tr>
 <th></th>
 <th></th>
-<th colspan="2" halign="left">Current Fit</th>
-<th colspan="2" halign="left">Reference Fit</th>
+<th colspan="2" halign="left">NNPDF4.0-like</th>
+<th colspan="2" halign="left">NNPDF4.0-baseline</th>
 </tr>
 <tr>
 <th></th>
@@ -2006,7 +2006,7 @@ Positivity
 
 Dataset differences and cuts
 ----------------------------
-The following datasets are included in both `Current Fit` and `Reference Fit`:
+The following datasets are included in both `NNPDF4.0-like` and `NNPDF4.0-baseline`:
 
  - ATLAS jets 8 TeV, R=0.6 (`ATLAS_1JET_8TEV_R06_PTY`)
  - ATLAS dijets 7 TeV, R=0.6 (`ATLAS_2JET_7TEV_R06_M12Y`)
@@ -2097,8 +2097,8 @@ The theories used in the fits are identical (theoryid=40000000)
 The following datasets are both included but have different kinematical cuts:
 
  - DY E886 $\sigma^p_{\rm DY}$:
-    * Current Fit includes 88 out of 184 points.
-    * Reference Fit includes 89 out of 184 points.
+    * NNPDF4.0-like includes 88 out of 184 points.
+    * NNPDF4.0-baseline includes 89 out of 184 points.
 
 
 

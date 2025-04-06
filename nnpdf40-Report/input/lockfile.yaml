@@ -96,30 +96,30 @@ ProcessGroup:
 actions_:
 - report(main=true)
 meta:
-  title: TEST(nnpdf40_like_VS_baseline)
+  title: comparison between nnpdf4.0-like and nnpdf4.0-baseline)
   author: Kamil Laurent
   keywords:
-  - NNPDF comparison 2
+  - NNPDF4.0 comparison
 current:
   fit: &id001
     id: nnpdf40-like
-    label: Current Fit
+    label: NNPDF4.0-like
   pdf: *id001
   theory:
     from_: fit
   theoryid:
     from_: theory
-  speclabel: Current Fit
+  speclabel: NNPDF4.0-like
 reference:
   fit: &id002
     id: 240701-02-rs-nnpdf40-baseline
-    label: Reference Fit
+    label: NNPDF4.0-baseline
   pdf: *id002
   theory:
     from_: fit
   theoryid:
     from_: theory
-  speclabel: Reference Fit
+  speclabel: NNPDF4.0-baseline
 use_thcovmat_if_present: false
 data_grouping_recorded_spec_:
   standard_report: experiment

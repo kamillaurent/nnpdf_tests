@@ -1,4 +1,4 @@
-%NNPDF report comparing Current Fit and Reference Fit
+%NNPDF report comparing NNPDF4.0-like and NNPDF4.0-baseline
 
 # Effective preprocessing information
 
@@ -76,14 +76,14 @@
 
 ## Tables
 
-### Next effective exponents for Current Fit
+### Next effective exponents for NNPDF4.0-like
 <table class="dataframe">
 <thead>
 <tr>
 <th></th>
 <th></th>
-<th colspan="2" halign="left">prev (Current Fit)</th>
-<th colspan="2" halign="left">next (Current Fit)</th>
+<th colspan="2" halign="left">prev (NNPDF4.0-like)</th>
+<th colspan="2" halign="left">next (NNPDF4.0-like)</th>
 </tr>
 <tr>
 <th></th>
@@ -218,14 +218,14 @@
 </tbody>
 </table>
 
-### Next effective exponents for Reference Fit
+### Next effective exponents for NNPDF4.0-baseline
 <table class="dataframe">
 <thead>
 <tr>
 <th></th>
 <th></th>
-<th colspan="2" halign="left">prev (Reference Fit)</th>
-<th colspan="2" halign="left">next (Reference Fit)</th>
+<th colspan="2" halign="left">prev (NNPDF4.0-baseline)</th>
+<th colspan="2" halign="left">next (NNPDF4.0-baseline)</th>
 </tr>
 <tr>
 <th></th>
