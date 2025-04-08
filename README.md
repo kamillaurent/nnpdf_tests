@@ -1,3 +1,12 @@
+# SMEFIT Test Fits
+The `SMEFIT_test` folder contains fit results produced with the SMEFiT framework. 
+
+- `SMEFIT_test/runcards/`: contains the runcads used to run the fits
+- `SMEFIT_test/runcards/reports/`: contains the runcards used to generate the reports
+- `SMEFIT_test/reports/`: contains the reports of two fits (`LHC_NLO_QUAD_GLOB` and `LHC_NLO_LIN_GLOB`), and their comparison (`LHC_NLO_GLOB__QUAD_VS_LIN`).
+
+The output files `fit_results.json` have not been uploaded due to their large size. 
+
 # NNPDF Test Fits
 
 This repository contains configuration and results for two NNPDF fits:
